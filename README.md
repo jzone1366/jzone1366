@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Josh 👋 </h1>
 
-Director of Engineering with 6+ years of experience leading diverse engineering teams in the tech industry. Proficient in
+Director of Engineering with 6+ years of experience leading diverse engineering teams in the tech industry and 11+ years in Engineering. Proficient in
 JavaScript, Python, PHP, Laravel, Git, and Vue.js, with a strong focus on developing coding standards and fostering innovation. Passionate about
 aligning strategic vision with business objectives to drive growth and ensure high
 -quality product delivery.
